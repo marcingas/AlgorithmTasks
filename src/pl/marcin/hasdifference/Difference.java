@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class Difference {
     public static void main(String[] args) {
-        int[] num = {3,1,2,3,4,5,6,7};
+        int[] num = {1,2,3,4,5,6,7,8};
         System.out.println(hasDifference(num, 6));
     }
     public static boolean hasDifference(int[]nums, int k){
